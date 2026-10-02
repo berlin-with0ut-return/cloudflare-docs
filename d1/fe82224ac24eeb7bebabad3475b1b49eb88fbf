@@ -1,0 +1,23 @@
+src/content/docs/cloudflare-one/cloud-and-saas-findings/index.mdx
+  s_539389c95651da::t_68ef29a071ea90 32-36,38
+src/content/docs/cloudflare-one/cloud-and-saas-findings/manage-findings.mdx
+  s_539389c95651da::t_c22248298890c7 33,68,101,188,207
+src/content/docs/cloudflare-one/cloud-and-saas-findings/policies.mdx
+  s_539389c95651da::t_1b1b6b975b1e11 31,106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d1fe82224ac24eeb7bebabad3475b1b49eb88fbf",
+  "prompts": {},
+  "sessions": {
+    "s_539389c95651da": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f06121927ffex1g3HHg0URO2Lq",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "sherryfan <sfan@cloudflare.com>"
+    }
+  }
+}
